@@ -1,0 +1,11 @@
+C:\Users\letif\RustRoverProjects\game\target\wasm32-unknown-unknown\release\deps\getrandom-49ac541a6e1aacd5.rmeta: C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error_impls.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\js.rs
+
+C:\Users\letif\RustRoverProjects\game\target\wasm32-unknown-unknown\release\deps\libgetrandom-49ac541a6e1aacd5.rlib: C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error_impls.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\js.rs
+
+C:\Users\letif\RustRoverProjects\game\target\wasm32-unknown-unknown\release\deps\getrandom-49ac541a6e1aacd5.d: C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error_impls.rs C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\js.rs
+
+C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs:
+C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs:
+C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs:
+C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error_impls.rs:
+C:\Users\letif\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\js.rs:
